@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sfrederick-gsa-gov
-- 👀 I’m interested in GSA 18f and TTS projects.
+- 👀 I’m interested in GSA TTS projects.
 - 🌱 I’m currently learning cloud infrastructure and AWS architecture.
-- 💞️ I’m looking to collaborate on GSA 18f and TTS projects.
+- 💞️ I’m looking to collaborate on GSA TTS projects.
 - 📫 How to reach me - sue.frederick@gsa.gov
 
 <!---
